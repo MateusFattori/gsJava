@@ -25,6 +25,8 @@ senha: 123
 
 https://gsjava-production.up.railway.app/docs
 
+dentro da pasta documento está o documento do projeto com todas as informações do sistema 
+
 ## Video da solução
 Video Pitch
 
