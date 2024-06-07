@@ -26,3 +26,9 @@ senha: 123
 https://gsjava-production.up.railway.app/docs
 
 ## Video da solução
+Video Pith
+
+https://youtu.be/v3IgsRQf_jY
+
+Video da explicacão da API de Java 
+
